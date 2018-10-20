@@ -3,11 +3,13 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
+repository: MELCHIOR-1/melchior.github.io
+port: 1234
 # Site
-title: Shawpan's blog
+title: NexT
 subtitle:
 description:
-author: Shaw Pan
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
