@@ -7,13 +7,19 @@ tags: [resources, jekyll]
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ---
 
-在写一些技术文章或偏理论文章的时候，难免会需要输入几个公式。因此，要求博客支持公式显示功能。目前最常用的公式输入方式就是使用LaTeX代码或类似的代码，在网页中，使用Mathjax进行解析，从而生成我们可读的公式。这篇文章介绍如何使用jekyll在github搭建的博客中显示公式。
+One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
+ability to support **MathJax**, which means I can write LaTeX-like equations that get
+nicely displayed in a web browser, like this one \\( \sqrt{\frac{n!}{k!(n-k)!}} \\) or
+this one \\( x^2 + y^2 = r^2 \\).
 
 <!--more-->
 
 <img class="centered" src="https://www.mathjax.org/badge/mj-logo.svg" />
 
+在写一些技术文章或偏理论文章的时候，难免会需要输入几个公式。因此，要求博客支持公式显示功能。目前最常用的公式输入方式就是使用LaTeX代码或类似的代码，在网页中，使用Mathjax进行解析，从而生成我们可读的公式。这篇文章介绍如何使用jekyll在github搭建的博客中显示公式。
+
 ## 什么是Mathjax？
+
 如果你浏览 MathJax 的官网 [(www.mathjax.org)](http://www.mathjax.org/) 你会发现它 *是一个能在任何浏览器中显示数学公式的一个开源JS引擎*.
 
 ## 怎么在Jekyll中集成MathJax？
