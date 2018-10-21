@@ -7,7 +7,9 @@ tags: [resources, jekyll]
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ---
 在写一些技术文章或偏理论文章的时候，难免会需要输入几个公式。因此，要求博客支持公式显示功能。目前最常用的公式输入方式就是使用LaTeX代码或类似的代码，在网页中，使用Mathjax进行解析，从而生成我们可读的公式。这篇文章介绍如何使用jekyll在github搭建的博客中显示公式。
+
 <!--more-->
+
 <img class="centered" src="https://www.mathjax.org/badge/mj-logo.svg" />
 
 ## 什么是Mathjax？
