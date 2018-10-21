@@ -1,3 +1,7 @@
+<!-- 在正文开头添加网易云音乐插件 -->
+{% if post.music-id %}
+  {% include cloud-music.html %}
+{% endif %}
 {% if site.highlight.line_number %}
   {% assign source = post.content %}
   {% include _helper/lineno.html %}
