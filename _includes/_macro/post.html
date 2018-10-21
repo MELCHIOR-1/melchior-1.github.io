@@ -258,7 +258,10 @@
 	
 
     <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody">
-	
+	  		 <!-- 在正文开头添加网易云音乐插件 -->
+		{% if post.music-id %}
+		  {% include cloud-music.html %}
+		{% endif %}
 
       {% comment %} Gallery support {% endcomment %}
       {% if post.photos and post.photos.size > 0 %}
