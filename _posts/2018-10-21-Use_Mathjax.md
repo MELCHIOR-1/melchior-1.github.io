@@ -18,11 +18,11 @@ this one \\( x^2 + y^2 = r^2 \\).
 
 在写一些技术文章或偏理论文章的时候，难免会需要输入几个公式。因此，要求博客支持公式显示功能。目前最常用的公式输入方式就是使用LaTeX代码或类似的代码，在网页中，使用Mathjax进行解析，从而生成我们可读的公式。这篇文章介绍如何使用jekyll在github搭建的博客中显示公式。
 
-## 什么是Mathjax？
+### 什么是Mathjax？
 
 如果你浏览 MathJax 的官网 [(www.mathjax.org)](http://www.mathjax.org/) 你会发现它 *是一个能在任何浏览器中显示数学公式的一个开源JS引擎*.
 
-## 怎么在Jekyll中集成MathJax？
+### 怎么在Jekyll中集成MathJax？
 **废弃的方案：**
 
 参考Dason Kurkiewicz的博客[using Jekyll and Mathjax](http://dasonk.github.io/blog/2012/10/09/Using-Jekyll-and-Mathjax/).
@@ -55,7 +55,7 @@ this one \\( x^2 + y^2 = r^2 \\).
   });
 </script>
 ```
-## 如何使用？
+### 如何使用？
 使用方法跟写LaTeX一样。对于行内公式，使用```$\$...\$$```；对于需要单独成行的公式，使用```$\$\$...\$\$ $```。
 
 如勾股定理：

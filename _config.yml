@@ -2,7 +2,6 @@
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
-encoding: UTF-8
 repository: MELCHIOR-1/melchior.github.io
 port: 1234
 # Site
