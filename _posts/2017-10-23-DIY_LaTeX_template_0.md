@@ -2,7 +2,7 @@
 layout: post
 title: "自己动手写LaTeX模版系列（零）"
 date: 2018-10-23
-categories: opinion
+categories: LaTeX
 tags: [resources, jekyll]
 lang: zh
 music-id: 399354373
@@ -67,3 +67,6 @@ music-id: 399354373
 ### 赞助
 
 如果你觉得这个系列对你有用，欢迎赞助作者。码字辛苦，只为攒点面膜钱。
+
+微信扫一扫
+<img class="centered" src="https://raw.githubusercontent.com/MELCHIOR-1/melchior-1.github.io/master/images/dashang.jpg" />
