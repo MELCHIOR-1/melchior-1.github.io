@@ -108,6 +108,6 @@ babel会把最后一个申明的语言当成主语言（如上例中的english�
 在win10平台下，预装texlive2017，使用XeLaTeX编译，结果如下：
 ![](http://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/18language.png)
 
-###参考资料
-[babel.pdf](ftp://ftp.dante.de/tex-archive/language/babel/base/babel.pdf)
-[克林贡人的爱意](https://www.douban.com/group/topic/52907756/)
+### 参考资料
+- [babel.pdf](ftp://ftp.dante.de/tex-archive/language/babel/base/babel.pdf)
+- [克林贡人的爱意](https://www.douban.com/group/topic/52907756/)
