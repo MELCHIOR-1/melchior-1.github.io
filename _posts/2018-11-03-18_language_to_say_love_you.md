@@ -23,7 +23,7 @@ lang: zh
 
 > This package manages culturally-determined typographical (and other) rules for a wide range of languages. A document may select a single language to be supported, or it may select several, in which case the document may switch from one language to another in a variety of ways.
 
-可以看出，babel是为了解决多语言排版问题的宏包。这个包的名字也很有意思，babel也有巴别塔之意，《圣经·旧约·创世记》第11章记载，当时人类联合起来兴建希望能通往天堂的高塔（巴别塔）；为了阻止人类的计划，上帝让人类说不同的语言，使人类相互之间不能沟通，计划因此失败，人类自此各散东西。此事件，为世上出现不同语言和种族提供解释。
+可以看出，babel是为了解决多语言排版问题的宏包。这个包的名字也很有意思，babel也有巴别塔之意，《圣经·旧约·创世记》第11章记载，当时人类联合起来兴建希望能通往天堂的高塔（巴别塔）；为了阻止人类的计划，上帝让人类说不同的语言，使人类相互之间不能沟通，计划因此失败，人类自此各散东西。此事件，为世上出现不同语言和种族提供解释。所以，从babel包这个名字，就可以看出作者的目标。
 
 ### 怎么在LaTeX中使用babel？
 
@@ -60,7 +60,9 @@ babel会把最后一个申明的语言当成主语言（如上例中的english�
 或许你会问，为什么要申明主语言呢？这主要跟caption、date等宏的编译显示有关。比如english是主语言的话，那么你在图片环境里面输入```\caption{test}```，编译出来的就是```Figure.X test```；而主语言是俄语，编译出来就是```диаграмма.X test```。
 
 好了，万事俱备，只欠东风了。现场自己把“我爱你”翻译成各种语言是不可能了，就只能借助于度娘了。
-完整的源码如下：
+完整的源码地址：```https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/blob/master/chapter_1/18_kinds_of_language_to_say_love_you.tex```
+
+源码如下：
 ```latex
 \documentclass[a4paper,UTF8]{ctexbook}
 \usepackage[french,german,czech,danish,finnish,dutch,greek,russian,icelandic,irish,latin,japanese,malay,polish,romanian,english]{babel}
