@@ -2,7 +2,7 @@
 layout: post
 title: "Github Jekyll使用Mathjax显示公式"
 date: 2018-10-21
-categories: opinion
+categories: JS
 tags: [resources, jekyll]
 lang: zh
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png

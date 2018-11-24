@@ -2,8 +2,8 @@
 layout: post
 title: "用17+1种语言说我爱你之latex版"
 date: 2018-11-03
-categories: latex
-tags: [babel, latex]
+categories: LaTeX
+tags: [babel,latex]
 lang: zh
 ---
 
