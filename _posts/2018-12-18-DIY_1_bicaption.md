@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自己动手写LaTeX模版系列（三）——图表双标题”
+title: "自己动手写LaTeX模版系列（三）——图表双标题"
 date: 2018-12-18
 categories: LaTeX
 tags: [sty,latex]
@@ -34,10 +34,11 @@ bicaption，从名字中可以看出，它是在caption的基础上实现了双�
 ### 怎么用bicaption宏包？
 
 使用bicaption宏包也非常简单，接着之前的模版demo_style宏包，在里面添加bicaption宏包的引用。
+
 ```latex
-\RequirePackage[list=off]{bicaption}% package for binary captions
-\captionsetup[figure][bi-second]{name=Figure}% the second figure caption name
-\captionsetup[table][bi-second]{name=Table}% the second table caption name
+\RequirePackage[list=off]{bicaption} % package for binary captions
+\captionsetup[figure][bi-second]{name=Figure} % the second figure caption name
+\captionsetup[table][bi-second]{name=Table} % the second table caption name
 ```
 第一行代码申明了bicaption包的引用，其中```list=off```选项表示在图表目录中不显示第二语言标题。看，使用bicaption宏包，目录显示问题一条指令就能解决，是不是很方便？
 
@@ -54,9 +55,9 @@ bicaption，从名字中可以看出，它是在caption的基础上实现了双�
 那么，对于中英文标题（第一语言是中文，第二语言是英文），是不是使用```RequirePackage[english,pinyin]{babel}```就行了呢？
 
 这样想就too young, too simple了，对于中文环境的完美适配，LaTeX还有一段路要走。引用刘海洋老师在《LaTeX入门》中提到的：
-```
-bicaption原本使用babel或polyglossia提供的语言选择机制来设置不同的语言标题，不过中文等东亚语言不使用上述宏包的翻译机制，就需要手工设置不同的语言标题。
-```
+
+> bicaption原本使用babel或polyglossia提供的语言选择机制来设置不同的语言标题，不过中文等东亚语言不使用上述宏包的翻译机制，就需要手工设置不同的语言标题。
+
 
 好了，现在问题变成了如何去设置第二语言标题？
 
@@ -100,8 +101,14 @@ bicaption原本使用babel或polyglossia提供的语言选择机制来设置不�
 \end{document}
 ```
 使用XeLaTeX编译后，可以得到如下效果：
+
 【目录的效果】
 
-![][image-1]
+![](https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/figure_index.png)
 
-[image-1]:	https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/shapepar_test.jpeg
+【标题的效果】
+![](https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/bicaption_content.png)
+
+源码地址：
+
+[https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/tree/master/chapter_1/section4](https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/tree/master/chapter_1/section4)
