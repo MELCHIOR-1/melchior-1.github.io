@@ -188,7 +188,16 @@ Cleveref figure reference (\textbackslash cref): \cref{fig:1}.
 
 源码地址：
 
-[https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5][https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5]
+[https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5](https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5)
 
 
 
+参考文章：
+
+[1] [Cleveref, a clever way to reference in LaTeX](<https://texblog.org/2013/05/06/cleveref-a-clever-way-to-reference-in-latex/>)
+
+[2] [使用宏包cleveref实现自动的引用](<https://blog.csdn.net/jpzhu16/article/details/50687120>)
+
+[3] [Fancy Cross-referencing](<http://www.ctex.org/documents/packages/bibref/fancyref.pdf>)
+
+[4] [The cleveref package](<http://ftp.yzu.edu.tw/CTAN/macros/latex/contrib/cleveref/cleveref.pdf>)
