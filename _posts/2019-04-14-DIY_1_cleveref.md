@@ -74,7 +74,9 @@ Cleveref figure reference (\textbackslash cref): \cref{fig:1}.
 
 编译一下，如下图所示：
 
-![](/Users/shawpan/Documents/OneDrive - mails.ucas.edu.cn/My_blog/melchior-1.github.io/images/cleveref_first.png)
+![](<https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/cleveref_first.png>)
+
+
 
 ### 搞定了吗？
 
@@ -180,19 +182,13 @@ Cleveref figure reference (\textbackslash cref): \cref{fig:1}.
 
 使用xelatex编译一下，可以生成如下结果：
 
-![](/Users/shawpan/Documents/OneDrive - mails.ucas.edu.cn/My_blog/melchior-1.github.io/images/cleveref_second.png)
-
-
-
-
+![](<https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/cleveref_second.png>)
 
 
 
 源码地址：
 
-[https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section4][1]
+[https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5][https://github.com/MELCHIOR-1/How\_to\_write\_a\_LaTeX\_thesis\_template/tree/master/chapter\_1/section5]
 
-[1]:	https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/tree/master/chapter_1/section4
 
-[image-1]:	https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/figure_index.png
-[image-2]:	https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/bicaption_content.png
+
