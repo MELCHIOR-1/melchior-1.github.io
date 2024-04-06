@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "test blog is OK or not"
-date: 202-04-06
+date: 2024-04-06
 categories: JS
 tags: [resources, jekyll]
 lang: zh
