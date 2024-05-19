@@ -15,9 +15,9 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 ### 磨刀不误砍柴工
 
-俗话说，磨刀不误砍柴工。博客中断了6年，之前的很多配置，一些用法，都不记得了，现在都需要重新拾起来。考虑到未来也可能会出现同样的状况
+俗话说，磨刀不误砍柴工。博客中断了6年，之前的一些配置，一些用法，都不记得了，现在都需要重新拾起来。考虑到未来也可能会出现同样的状况，有些环境也会随日新月异的变化而过时
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU3MjEwMzNdfQ==
+eyJoaXN0b3J5IjpbMTg2OTkxNDY1Nl19
 -->
