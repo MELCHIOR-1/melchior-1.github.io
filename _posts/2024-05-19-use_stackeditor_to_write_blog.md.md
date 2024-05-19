@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "use stackeditor to write blog"
+title: "使用stackeditor.io在线编辑github博客"
 date: 2024-05-19
 categories: JS
 tags: [resources, jekyll]
@@ -21,5 +21,5 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzg1Nzg3MF19
+eyJoaXN0b3J5IjpbMjEyNzMwNDYyNSwxODAzODU3ODcwXX0=
 -->
