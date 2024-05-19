@@ -21,5 +21,10 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzMwNDYyNSwxODAzODU3ODcwXX0=
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
+9yLmlv5Zyo57q/57yW6L6RZ2l0aHVi5Y2a5a6iXG5hdXRob3I6
+IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
+F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
+ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
+s4NTAyMzU1MywyMTI3MzA0NjI1LDE4MDM4NTc4NzBdfQ==
 -->
