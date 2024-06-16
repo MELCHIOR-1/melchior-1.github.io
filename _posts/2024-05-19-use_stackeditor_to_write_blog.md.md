@@ -16,6 +16,7 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 俗话说，磨刀不误砍柴工。博客中断了6年，之前编辑博客的电脑也坏了，环境都没了，一些配置，一些用法，都不记得了，现在都需要重新拾起来。考虑到未来也可能会出现同样的状况，有些环境也会随日新月异的变化而过时，所以想用一个跟本地环境能解耦的方案，同时可以随时随地的登录编辑。
 
 最直接的方法，就是直接编辑github上面的文件，还好之前用的是jekyll框架，markdown按照模板格式写完后，就能自动编译了，也不需要手动输入命令（之前一直担心需要自己编译，还看了一段时间github action实现自动化 :<）。
+
 直接在github编辑markdown的最大缺陷在于不直观，没法实时渲染。所以找一个曲线救国的方法：找一款在线markdown编辑器，要么能在线存储文档，或者能及时同时能同步到github上，这样就能拜托主机的限制、系统的限制。
 
 
@@ -26,5 +27,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-s4NTAyMzU1MywyMTI3MzA0NjI1LDE4MDM4NTc4NzBdfQ==
+stMTQ5ODA2OTc3Nyw4NTAyMzU1MywyMTI3MzA0NjI1LDE4MDM4
+NTc4NzBdfQ==
 -->
