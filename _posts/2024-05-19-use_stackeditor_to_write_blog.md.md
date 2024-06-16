@@ -19,7 +19,7 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 直接在github编辑markdown的最大缺陷在于不直观，没法实时渲染。所以找一个曲线救国的方法：找一款在线markdown编辑器，要么能在线存储文档，或者能及时同时能同步到github上，这样就能摆脱主机的限制、系统的限制。
 
-在线markdown编辑器，有几种形式：1、自带后台，提供账户存储，比如一些笔记ru
+在线markdown编辑器，有几种形式：1、自带后台，提供账户存储，比如一些笔记软件（为知笔记、石墨等），这种
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -29,6 +29,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-stMTU1NzU1NDQ0MiwtNjc2NDA1NDE2LDg1MDIzNTUzLDIxMjcz
-MDQ2MjUsMTgwMzg1Nzg3MF19
+sxMjk1NjE4ODQxLC02NzY0MDU0MTYsODUwMjM1NTMsMjEyNzMw
+NDYyNSwxODAzODU3ODcwXX0=
 -->
