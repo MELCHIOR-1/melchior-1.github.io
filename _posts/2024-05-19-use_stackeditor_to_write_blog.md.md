@@ -17,7 +17,7 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 最直接的方法，就是直接编辑github上面的文件，还好之前用的是jekyll框架，markdown按照模板格式写完后，就能自动编译了，也不需要手动输入命令（之前一直担心需要自己编译，还看了一段时间github action实现自动化 :<）。
 
-直接在github编辑markdown的最大缺陷在于不直观，没法实时渲染。所以找一个曲线救国的方法：找一款在线markdown编辑器，要么能在线存储文档，或者能及时同时能同步到github上，这样就能拜托主机的限制、系统的限制。
+直接在github编辑markdown的最大缺陷在于不直观，没法实时渲染。所以找一个曲线救国的方法：找一款在线markdown编辑器，要么能在线存储文档，或者能及时同时能同步到github上，这样就能主机的限制、系统的限制。
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -27,6 +27,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-stMTQ5ODA2OTc3Nyw4NTAyMzU1MywyMTI3MzA0NjI1LDE4MDM4
-NTc4NzBdfQ==
+stNjUzNzExNTczLDg1MDIzNTUzLDIxMjczMDQ2MjUsMTgwMzg1
+Nzg3MF19
 -->
