@@ -27,16 +27,20 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 由于博客主要挂在github上，所以个人偏向于用StackEditor，但StackEdit有个问题，没法添加图床，后面等插图用的多了再说吧，可能需要再找一个解决插图的工具吧。
 3、基于github的开源在线markdown编辑器，自己二次开发一套适配的markdown编辑器，但考虑到这是个不小的工程，还是先不考虑了。
 
-### Heading
+### 先动手吧
+在《精力管理》里面有句话：
 
+> 人们总是高估一天能完成的事，而低估30天能完成的事。
+> 
 > Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 9yLmlv5Zyo57q/57yW6L6RZ2l0aHVi5Y2a5a6iXG5hdXRob3I6
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-s4NDYwNzE4ODUsMTgwNDY2NjQ3NiwtNDY2ODMzOTksMTI5NTYx
-ODg0MSwtNjc2NDA1NDE2LDg1MDIzNTUzLDIxMjczMDQ2MjUsMT
-gwMzg1Nzg3MF19
+stODM2MzAyMTM0LDE4MDQ2NjY0NzYsLTQ2NjgzMzk5LDEyOTU2
+MTg4NDEsLTY3NjQwNTQxNiw4NTAyMzU1MywyMTI3MzA0NjI1LD
+E4MDM4NTc4NzBdfQ==
 -->
