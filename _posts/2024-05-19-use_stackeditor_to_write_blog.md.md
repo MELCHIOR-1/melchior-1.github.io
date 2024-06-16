@@ -25,7 +25,9 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 1、自带后台，提供账户存储，比如一些笔记软件（为知笔记、石墨等），这种在线编辑markdown确实比较方便，但同步到github上，就需要比较麻烦的操作了；另外，总感觉如果只是写博客，用这些笔记类的软件，有点大材小用。
 2、不带后台，数据直接存储在浏览器storage中，比如[StackEdit](https://stackedit.io/app#)、[doocs.md](https://github.com/doocs/md)、[Editor.md](https://pandao.github.io/editor.md/en.html)，其中StackEdit可以直接同步github的文章，doocs.md能很方便地排版成微信公众号文章，Editor.md是个功能强大的编辑器，可以嵌入公式、流程图、还可以写PPT，甚至它本身也可以嵌入网页中，作为一个嵌入式的markdown编辑器。
 由于博客主要挂在github上，所以个人偏向于用StackEditor，但StackEdit有个问题，没法添加图床，后面等插图用的多了再说吧，可能需要再找一个解决插图的工具吧。
-3、基于github的开源在线markdown编辑器，自己开发一套shi
+3、基于github的开源在线markdown编辑器，自己二次开发一套适配的markdown编辑器，但考虑到这是个不小的工程，还是先不考虑了。
+
+### Heading
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
@@ -34,7 +36,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-s3NDM1NTM4OTgsMTgwNDY2NjQ3NiwtNDY2ODMzOTksMTI5NTYx
+s4NDYwNzE4ODUsMTgwNDY2NjQ3NiwtNDY2ODMzOTksMTI5NTYx
 ODg0MSwtNjc2NDA1NDE2LDg1MDIzNTUzLDIxMjczMDQ2MjUsMT
 gwMzg1Nzg3MF19
 -->
