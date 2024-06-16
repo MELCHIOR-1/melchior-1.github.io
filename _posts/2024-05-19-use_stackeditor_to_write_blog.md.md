@@ -21,7 +21,7 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 
 在线markdown编辑器，有几种形式：
 1、自带后台，提供账户存储，比如一些笔记软件（为知笔记、石墨等），这种在线编辑markdown确实比较方便，但同步到github上，就需要比较麻烦的操作了；另外，总感觉如果只是写博客，用这些笔记类的软件，有点大材小用。
-2、不带后台，数据直接存储在浏览器storage中，比如[StackEdit](https://stackedit.io/app#)、[doocs.md](https://github.com/doocs/md)、[Editor.md](https://pandao.github.io/editor.md/en.html)，其中StackEdit可以直接同步github的文章，
+2、不带后台，数据直接存储在浏览器storage中，比如[StackEdit](https://stackedit.io/app#)、[doocs.md](https://github.com/doocs/md)、[Editor.md](https://pandao.github.io/editor.md/en.html)，其中StackEdit可以直接同步github的文章，doocs
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -31,7 +31,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-sxODA0NjY2NDc2LC00NjY4MzM5OSwxMjk1NjE4ODQxLC02NzY0
-MDU0MTYsODUwMjM1NTMsMjEyNzMwNDYyNSwxODAzODU3ODcwXX
-0=
+sxNzQ0ODMwMTgwLDE4MDQ2NjY0NzYsLTQ2NjgzMzk5LDEyOTU2
+MTg4NDEsLTY3NjQwNTQxNiw4NTAyMzU1MywyMTI3MzA0NjI1LD
+E4MDM4NTc4NzBdfQ==
 -->
