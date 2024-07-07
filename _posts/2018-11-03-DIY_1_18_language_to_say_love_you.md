@@ -113,3 +113,6 @@ babel会把最后一个申明的语言当成主语言（如上例中的english�
 ### 参考资料
 - [babel.pdf](ftp://ftp.dante.de/tex-archive/language/babel/base/babel.pdf)
 - [克林贡人的爱意](https://www.douban.com/group/topic/52907756/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU2NTkwOTQyM119
+-->
