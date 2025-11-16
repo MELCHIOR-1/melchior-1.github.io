@@ -15,9 +15,9 @@ lang: zh
 
 几个契机，重启了这个博客，并开始了我的人生重启计划。
 
-1、
+1、给娃做个榜样，发现娃的模仿能力很强。虽然他现在还不会说，但我们说的一些东西，
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzk0MTgyMyw2OTA1OTg4MzMsLTE1OD
-Y1MDc4ODhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDg1ODIxNzcsNjkwNTk4ODMzLC0xNT
+g2NTA3ODg4XX0=
 -->
