@@ -7,10 +7,10 @@ tags: [life,plan]
 lang: zh
 
 ---
-
+蜉蝣一日，草木一秋，人生一世。
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTMzMTIxNl19
+eyJoaXN0b3J5IjpbLTEyMzkxMDY1NThdfQ==
 -->
