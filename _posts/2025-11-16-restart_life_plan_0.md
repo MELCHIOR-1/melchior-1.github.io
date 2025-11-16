@@ -15,12 +15,12 @@ lang: zh
 
 几个契机，重启了这个博客，并开始了我的人生重启计划。
 
-1、给娃做个榜样，发现娃的模仿能力很强。虽然他现在还不会说，但我们说的一些东西，做的一些事，他能懂，会模仿。虽然他现在对妈妈y
+1、给娃做个榜样，发现娃的模仿能力很强。虽然他现在还不会说，但我们说的一些东西，做的一些事，他能懂，会模仿。虽然他现在对妈妈比较依赖，但不希望他觉得爸爸是个可有可无的人。希望他能尽早的发现她的爱好。
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MzI3MjM1LDY5MDU5ODgzMywtMTU4Nj
-UwNzg4OF19
+eyJoaXN0b3J5IjpbLTcwMjk4MjczMCw2OTA1OTg4MzMsLTE1OD
+Y1MDc4ODhdfQ==
 -->
