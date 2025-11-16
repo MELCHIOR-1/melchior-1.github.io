@@ -17,12 +17,12 @@ lang: zh
 
 1、给娃做个榜样，发现娃的模仿能力很强。虽然他现在还不会说，但我们说的一些东西，做的一些事，他能懂，会模仿。虽然他现在对妈妈比较依赖，但不希望他觉得爸爸是个可有可无的人。希望他能尽早地发现他的爱好，在未来漫长的道路上能抵抗艰难险阻；培养动手能力，能快速把想法变成现实。而这些，如果我只是跟他说说，可能就变成了说教了，只有自己言行身教，他才能更深的理解体会。
 
-2、zui'jin
+2、最近跟部门的前同事吃了顿饭，同事分享了下他的经历
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTI1NDEzMyw2OTA1OTg4MzMsLTE1OD
-Y1MDc4ODhdfQ==
+eyJoaXN0b3J5IjpbLTExOTk2MTU3MzIsNjkwNTk4ODMzLC0xNT
+g2NTA3ODg4XX0=
 -->
