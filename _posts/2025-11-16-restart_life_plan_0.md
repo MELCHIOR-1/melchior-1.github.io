@@ -19,12 +19,12 @@ lang: zh
 
 2、最近跟部门的前同事吃了顿饭，同事分享了下他的经历，也问了个很尖锐的问题，或者是我一直困扰的问题，就是你的目标是什么？知道了目标，才有方向，才能心无旁骛的去朝着这个目标前进。比如走专家路线，那就一门心思搞技术，能在这个领域做到公司最强。这个问题，从读博第一天，就困扰着我。如果一门心思搞技术，那就应该留在高校，研究这个领域最前沿、最新的技术；但如今的高校，也如升级打怪，或许若干年后，能混到比较好的社会地位，但可能还是会为了钱到处奔波；那先解决了钱的问题，如何？之前给自己定了一个目标：40岁之前，在工业界赚够了钱，40岁后，再回学术界好好搞研究。只是这赚够钱，谈何容易。经济形势下行，公司的打怪升级之路也非易事，一个萝卜一个坑。是时候再好好审视一下目标了。
 
-3、刚过了35，是时候该考虑人生的下半场了。
+3、刚过了35，是时候该考虑人生的下半场了。其实从小时候
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzEwNTY2LDEwOTYyOTk5NTMsLTk4Mj
-Q1Mjc0MCw2OTA1OTg4MzMsLTE1ODY1MDc4ODhdfQ==
+eyJoaXN0b3J5IjpbLTQxNDI3ODYzMCwxMDk2Mjk5OTUzLC05OD
+I0NTI3NDAsNjkwNTk4ODMzLC0xNTg2NTA3ODg4XX0=
 -->
