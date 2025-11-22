@@ -13,9 +13,9 @@ lang: zh
 
 如之前找到stackedit+github写博客，极大减小了处理博客格式和上传的成本，依托在线处理，不用每次都要花半天时间配置环境。
 
-同样，一些生产力软件，我也希望能够轻装上阵。也就是说，
+同样，一些生产力软件，我也希望能够轻装上阵。也就是说，随时随地能够干起活来。
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODI2ODgzM119
+eyJoaXN0b3J5IjpbLTIxMTkyMjI5NzZdfQ==
 -->
