@@ -11,9 +11,9 @@ lang: zh
 
 <!--more-->
 
-如之前找到stackedit+写博客，
+如之前找到stackedit+github写博客，极大减小了处理博客格式和上传的成本，依托在线处理，不用每次都要花半天时间配置环境，
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODg5NDE4MF19
+eyJoaXN0b3J5IjpbMTk0MTkyNTk2Nl19
 -->
