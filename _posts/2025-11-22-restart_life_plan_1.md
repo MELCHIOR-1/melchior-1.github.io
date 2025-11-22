@@ -17,11 +17,11 @@ lang: zh
 
 - **CAD画图**：元宝问了一下，在线免费的，还可以导出stp格式的，[onshape](https://www.onshape.com/en/)软件是个不错的选择。onshape的画图逻辑跟creo差不多，刚好去年自学过一段时间Creo，上手起来会容易一些。查了一下onshape的创始人，确实和Creo有一段渊源。哈哈，有意思。需要注意的是，onshape是海外的软件，所以使用的时候最好有代理。
 - **原理图和PCB**：之前听说过[嘉立创](https://lceda.cn/)，单没用过，嘉立创每个月有免费打板的福利，后面可以多尝试一下。原理图和PCB已经有10年没碰过了，该捡起来的是时候捡起来了。
-- 
+- **电路模拟**：同事推荐了一个开源的软件[circuitjs](https://www.falstad.com/circuit/circuitjs.html)，网上查了一下，还有在线的版本，挺好的。
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU0NDU2MzcsMTc2MDYzNjE2MCwtMT
-E4NzA2Mzg4M119
+eyJoaXN0b3J5IjpbLTU1MzE4NDQ1NCwxNzYwNjM2MTYwLC0xMT
+g3MDYzODgzXX0=
 -->
