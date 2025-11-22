@@ -15,12 +15,11 @@ lang: zh
 
 同样，一些生产力软件，我也希望能够轻装上阵。也就是说，随时随地能够干起活来。如此，一些在线的生产力软件，便是我的所求。
 
-- **CAD画图**：元宝问了一下，在线免费的，还可以导出stp格式的，[onshape](https://www.onshape.com/en/)软件是个不错的选择。
-- 原理图和PCB：之前听说过嘉立创，单没用过，嘉立创每个月有免费打板的福利，后面可以多尝试一下。
+- **CAD画图**：元宝问了一下，在线免费的，还可以导出stp格式的，[onshape](https://www.onshape.com/en/)软件是个不错的选择。onshape的画图逻辑跟creo差不多，刚好去年zi
+- **原理图和PCB**：之前听说过[嘉立创](https://lceda.cn/)，单没用过，嘉立创每个月有免费打板的福利，后面可以多尝试一下。
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY1MzIxNDQsLTExODcwNjM4ODNdfQ
-==
+eyJoaXN0b3J5IjpbMTk3NzEzNjIwNiwtMTE4NzA2Mzg4M119
 -->
