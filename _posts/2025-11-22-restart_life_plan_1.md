@@ -15,10 +15,10 @@ lang: zh
 
 同样，一些生产力软件，我也希望能够轻装上阵。也就是说，随时随地能够干起活来。如此，一些在线的生产力软件，便是我的所求。
 
-- CAD画图：元宝问了一下，在线免费的，还可以导出stp格式的，onshape软件是个不错的选择。
+- **CAD画图**：元宝问了一下，在线免费的，还可以导出stp格式的，[onshape](https://www.onshape.com/en/)软件是个不错的选择。
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcwNjM4ODNdfQ==
+eyJoaXN0b3J5IjpbMTEwNDY5MjI1NiwtMTE4NzA2Mzg4M119
 -->
