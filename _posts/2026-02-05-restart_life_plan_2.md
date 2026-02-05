@@ -10,8 +10,9 @@ lang: zh
 君欲善其事，必先利其器。
 
 <!--more-->
-上次
+上次说到了软件上的工具，这次说一下硬件上的工具。
+终于还是买了个
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTA2NDc5OV19
+eyJoaXN0b3J5IjpbLTIwODkzOTk4NjBdfQ==
 -->
