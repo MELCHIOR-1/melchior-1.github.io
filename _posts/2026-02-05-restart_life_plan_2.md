@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重启人生计划——1"
+title: "重启人生计划——2"
 date: 2026-02-05
 categories: life
 tags: [life,plan]
@@ -19,5 +19,5 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjY4OTg3N119
+eyJoaXN0b3J5IjpbNDQyOTExOTI0XX0=
 -->
