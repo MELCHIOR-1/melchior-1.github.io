@@ -82,3 +82,6 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 ```
 使用XeLaTeX编译后，可以得到如下效果：
 ![](https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/shapepar_test.jpeg)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUwOTQ2MTMzXX0=
+-->
