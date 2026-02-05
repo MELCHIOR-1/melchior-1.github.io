@@ -195,3 +195,6 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 ### 参考资料
 
 - [clsguide_chs.pdf](https://wenku.baidu.com/view/a7a25a8371fe910ef12df8c9.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2Nzg2MTI5MjJdfQ==
+-->
