@@ -7,7 +7,7 @@ tags: [life,plan]
 lang: zh
 
 ---
-君欲善其事，必先利其器。
+拥抱变化，。
 
 <!--more-->
 
@@ -20,5 +20,5 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MTYxMzRdfQ==
+eyJoaXN0b3J5IjpbLTc3MjY0ODg3MF19
 -->
