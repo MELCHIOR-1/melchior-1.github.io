@@ -1,6 +1,17 @@
+-----
+layout: post
+title: "重启人生计划——1"
+date: 2025-11-22
+categories: life
+tags: [life,plan]
+lang: zh
 
+---
+君欲善其事，必先利其器。
 
+<!--more-->
+上次
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbMTIxOTA2NDc5OV19
 -->
