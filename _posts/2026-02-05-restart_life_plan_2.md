@@ -19,10 +19,11 @@ lang: zh
 
 希望能通过先进的生产工具来提升生产效率。
 
-后面多产出，按照目前一年屈指可封的几篇，还是太慢了。
+后面多产出，按照目前一年屈指可数的几篇，还是太慢了。
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzM2NjM0NSwxNDUzNDA3NDc5XX0=
+eyJoaXN0b3J5IjpbLTE1NjI2NDc0NDgsLTkxMzM2NjM0NSwxND
+UzNDA3NDc5XX0=
 -->
