@@ -7,7 +7,7 @@ tags: [life,plan]
 lang: zh
 
 ---
-。
+拥抱AI
 
 <!--more-->
 
@@ -26,5 +26,5 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDM5NzcyN119
+eyJoaXN0b3J5IjpbLTIyNjI0NjkwMSwtNjkwMzk3NzI3XX0=
 -->
