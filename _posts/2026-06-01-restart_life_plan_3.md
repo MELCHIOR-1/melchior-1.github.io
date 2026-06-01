@@ -7,7 +7,7 @@ tags: [life,plan]
 lang: zh
 
 ---
-拥抱变化，终身学习。
+。
 
 <!--more-->
 
@@ -26,5 +26,5 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3MTU3Nzg2XX0=
+eyJoaXN0b3J5IjpbLTY5MDM5NzcyN119
 -->
