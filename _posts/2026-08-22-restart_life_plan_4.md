@@ -11,10 +11,12 @@ codex and workbuddy
 
 <!--more-->
 
-AI的变化实在太快，agent还没出来之前，我还觉得AI只是一个增强的搜索工具，对于编程或
+前段时间把codex装好了，试用了一下，确实牛x。以前学习Python，学习js。发现codex直接就帮你写了。
+
+但也发现了些
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcxNTIwMzEsNTIwMTM5NDQ4XX0=
+eyJoaXN0b3J5IjpbMTM1OTA1ODIzNCw1MjAxMzk0NDhdfQ==
 -->
