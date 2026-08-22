@@ -11,10 +11,10 @@ codex and workbuddy
 
 <!--more-->
 
-AI的变化实在太快，agent还没出来之前，我还觉得AI只是一个增强的搜索工具，对于编程或是写自动化脚本这些还比较弱。虽然能生成一段代码，但是代码的可执行性、环境依赖，都需要人去操作验证，而人在这个方面是最大的短板。
+AI的变化实在太快，agent还没出来之前，我还觉得AI只是一个增强的搜索工具，对于编程或
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMTM5NDQ4XX0=
+eyJoaXN0b3J5IjpbLTE5NjcxNTIwMzEsNTIwMTM5NDQ4XX0=
 -->
