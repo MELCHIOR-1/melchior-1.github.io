@@ -15,8 +15,10 @@ codex and workbuddy
 
 但也发现了些问题，一是codex更偏向于编码，在一些其他工具的调用上，可能依赖于skill，需要网上找。
 
+发现
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc1NzQ0MDEsNTIwMTM5NDQ4XX0=
+eyJoaXN0b3J5IjpbLTk5MzU0MTEyNCw1MjAxMzk0NDhdfQ==
 -->
