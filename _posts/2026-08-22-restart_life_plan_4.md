@@ -20,9 +20,9 @@ codex and workbuddy
 
 用workbuddy做了一个打卡网页，可以自动定时获取华为运动使康、多邻国、微信读书的数据进行自动打卡，并且部署到了github上了，前后大概用了几个晚上，感觉效率还是挺高的。
 
-最近听说了一个词，叫做AI Native，即做什么事之前先问自己，这个事AI能不能
+最近听说了一个词，叫做AI Native，即做什么事之前先问自己，这个事AI能不能做，如果能做，尽量让AI去做，人负责监
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMxMDg5MjMsLTk5MzU0MTEyNCw1Mj
-AxMzk0NDhdfQ==
+eyJoaXN0b3J5IjpbNzk3ODAzNDI3LC05OTM1NDExMjQsNTIwMT
+M5NDQ4XX0=
 -->
