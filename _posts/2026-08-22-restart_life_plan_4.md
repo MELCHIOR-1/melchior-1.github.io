@@ -17,10 +17,11 @@ codex and workbuddy
 
 最近看腾讯一直在推workbuddy，用了一下，发现生态做的还可以，8月31号前用hy3模型还免费。
 
+用workbuddy做了一个打卡网页，可以自动定时获取华为运动使康、多邻国
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDYwOTk2NSwtOTkzNTQxMTI0LDUyMD
-EzOTQ0OF19
+eyJoaXN0b3J5IjpbNzk0MTM2NDQsLTk5MzU0MTEyNCw1MjAxMz
+k0NDhdfQ==
 -->
