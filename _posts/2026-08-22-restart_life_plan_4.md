@@ -15,11 +15,12 @@ codex and workbuddy
 
 但也发现了些问题，一是codex更偏向于编码，在一些其他工具的调用上，可能依赖于skill，需要网上找。
 
-最近看腾讯一直在推workbuddy，用了一下，
+最近看腾讯一直在推workbuddy，用了一下，发现生态做的还可以，8月31号前用hy3模型还免费。
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDAxNzk3MCwtOTkzNTQxMTI0LDUyMD
+eyJoaXN0b3J5IjpbMTIzMDYwOTk2NSwtOTkzNTQxMTI0LDUyMD
 EzOTQ0OF19
 -->
