@@ -5,6 +5,7 @@ date: 2026-08-22
 categories: life
 tags: [life,plan]
 lang: zh
+
 ---
 
 codex and workbuddy
@@ -22,6 +23,6 @@ codex and workbuddy
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTMwNzQ1LC05OTM1NDExMjQsNTIwMT
-M5NDQ4XX0=
+eyJoaXN0b3J5IjpbLTEyODEwNjg3MTEsLTk5MzU0MTEyNCw1Mj
+AxMzk0NDhdfQ==
 -->
