@@ -8,7 +8,8 @@ lang: zh
 
 ---
 
-下一个十年计划
+花有重开日，人无再少年
+是时候定下一个十年计划了
 
 <!--more-->
 
@@ -20,5 +21,5 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwNTI3NTRdfQ==
+eyJoaXN0b3J5IjpbNDQxMDUyOTM2LC0xMTYyMDUyNzU0XX0=
 -->
