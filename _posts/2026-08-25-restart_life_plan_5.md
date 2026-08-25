@@ -21,12 +21,14 @@ lang: zh
 
 作为儿子，不得不承认，父母已经在变老，确切来说，都已经退休，到了安享天伦之乐的年龄。也到了该赡养父母的阶段了。未来1年，希望父母都能健健康康。几件事需要规划和安排了：
 1. 把母亲的户口迁到深圳来；
-2. 每年父母都要体检一次；
+2. 督促父亲把
+3. 每年父母都要体检一次；
+4. 每年买意外险和重疾险；
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ4OTM4NjcsMTMwOTEyMTg5Niw0ND
+eyJoaXN0b3J5IjpbLTExNTQ0NjMwODIsMTMwOTEyMTg5Niw0ND
 EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
 -->
