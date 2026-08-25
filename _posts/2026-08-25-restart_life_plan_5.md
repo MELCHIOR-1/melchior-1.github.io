@@ -34,12 +34,15 @@ lang: zh
 
 作为丈夫，跟妻子也进行了几番友好讨论。爱情在当前阶段，优先级比较低。或者说，早已转换成了亲情。两个人可以看成是一起抚养儿子的合伙人、partner。养好儿子，对于小家庭来说优先级最高，其他事项都可以让步，或者必要的时候做出牺牲。妻子也能理解，任何感情的维系，都需要付出精力，尽量用最少的经历去维持这段婚姻。
 
+P.S.
 
+其实还有一个隐藏的角色，那就是作为一个个体的自己。
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3NTM1OTUsMTg2NjE5NzAxNSwxMz
-A5MTIxODk2LDQ0MTA1MjkzNiwtMTE2MjA1Mjc1NF19
+eyJoaXN0b3J5IjpbLTIwNjEwODE2MDcsLTE4MDA3NTM1OTUsMT
+g2NjE5NzAxNSwxMzA5MTIxODk2LDQ0MTA1MjkzNiwtMTE2MjA1
+Mjc1NF19
 -->
