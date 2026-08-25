@@ -25,12 +25,13 @@ lang: zh
 3. 每年父母都要体检一次；
 4. 每年买意外险和重疾险；
 
-作为父亲，看着儿子一天天长大，心里还是挺开心的，但身上的担子不知不觉也多了起来。围棋里面讲究只要留两口气，布的这个眼就是活眼。对我也一样，只要留着两口气，我就能活；而我知道，
+作为父亲，看着儿子一天天长大，心里还是挺开心的，但身上的担子不知不觉也多了起来。围棋里面讲究只要留两口气，布的这个眼就是活眼。对我也一样，只要留着两口气，我就能活；而我知道，这一口气是自己给的，另一口气便是儿子给的。同样几个事需要规划：
+1. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTQ4MDc1NSwxMzA5MTIxODk2LDQ0MT
+eyJoaXN0b3J5IjpbLTYyMjYwMDc0MywxMzA5MTIxODk2LDQ0MT
 A1MjkzNiwtMTE2MjA1Mjc1NF19
 -->
