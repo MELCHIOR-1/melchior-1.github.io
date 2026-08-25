@@ -36,13 +36,14 @@ lang: zh
 
 P.S.
 
-其实还有一个隐藏的角色，那就是作为一个个体的自己。
+其实还有一个隐藏的角色，那就是作为一个个体的自己。几点任务清单吧：
+[ ] 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwODE2MDcsLTE4MDA3NTM1OTUsMT
-g2NjE5NzAxNSwxMzA5MTIxODk2LDQ0MTA1MjkzNiwtMTE2MjA1
-Mjc1NF19
+eyJoaXN0b3J5IjpbOTcyODEwMzY1LC0xODAwNzUzNTk1LDE4Nj
+YxOTcwMTUsMTMwOTEyMTg5Niw0NDEwNTI5MzYsLTExNjIwNTI3
+NTRdfQ==
 -->
