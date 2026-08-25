@@ -19,12 +19,13 @@ lang: zh
 
 深受EVA的影响，觉得自己就像一个MAGI系统。脑子里面有3个角色在支配着自己：作为儿子的角色、作为父亲的角色以及作为丈夫的角色。
 
-作为儿子，不得不承认，父母已经在变老，确切来说，都已经退休，到了安享天伦之乐的年龄。也到了该
+作为儿子，不得不承认，父母已经在变老，确切来说，都已经退休，到了安享天伦之乐的年龄。也到了该赡养父母的阶段了。未来1年，希望父母都能健健康康。几件事需要规划和安排了：
+1. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzg1MjkzNiwxMzA5MTIxODk2LDQ0MT
-A1MjkzNiwtMTE2MjA1Mjc1NF19
+eyJoaXN0b3J5IjpbOTY0NDg0MzQ0LDEzMDkxMjE4OTYsNDQxMD
+UyOTM2LC0xMTYyMDUyNzU0XX0=
 -->
