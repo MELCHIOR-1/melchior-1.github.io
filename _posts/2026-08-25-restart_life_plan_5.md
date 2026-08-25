@@ -39,13 +39,13 @@ P.S.
 其实还有一个隐藏的角色，那就是作为一个个体的自己。几点任务清单吧：
 - [ ] 体重降到70kg以下（目前体重维持在74kg左右，似乎进入平台期，今天突然翻了下23年的记录，最低69kg，似乎是黑暗里的一束光）  
 - [ ] 内脏脂肪等级降低6以下（虽然脂肪肝已是老病友，但也不能破罐子破摔，人至中年，更要保护好自己的身体）
-- [ ] 完善自己的性格。ENFJ
+- [ ] 完善自己的性格。最近看到ENFJ的另一种解释——中央空调。也被好几个人说过，我对谁都太好了，一副大好人的形象。其实没必要，人生就那么几十年，对自己在乎的人更好一些，对普通人保持距离感
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQwMzI4MSwtMTgwMDc1MzU5NSwxOD
-Y2MTk3MDE1LDEzMDkxMjE4OTYsNDQxMDUyOTM2LC0xMTYyMDUy
-NzU0XX0=
+eyJoaXN0b3J5IjpbLTE2ODM2ODQwMzUsLTE4MDA3NTM1OTUsMT
+g2NjE5NzAxNSwxMzA5MTIxODk2LDQ0MTA1MjkzNiwtMTE2MjA1
+Mjc1NF19
 -->
