@@ -9,6 +9,7 @@ lang: zh
 ---
 
 花有重开日，人无再少年
+
 是时候定下一个十年计划了
 
 <!--more-->
@@ -39,6 +40,6 @@ lang: zh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ2NjU0NjcsMTMwOTEyMTg5Niw0ND
-EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
+eyJoaXN0b3J5IjpbMTg2NjE5NzAxNSwxMzA5MTIxODk2LDQ0MT
+A1MjkzNiwtMTE2MjA1Mjc1NF19
 -->
