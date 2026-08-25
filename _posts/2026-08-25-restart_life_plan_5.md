@@ -37,13 +37,13 @@ lang: zh
 P.S.
 
 其实还有一个隐藏的角色，那就是作为一个个体的自己。几点任务清单吧：
-[ ] 
+- [ ] 体重降到70kg以下（目前体重）  
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyODEwMzY1LC0xODAwNzUzNTk1LDE4Nj
-YxOTcwMTUsMTMwOTEyMTg5Niw0NDEwNTI5MzYsLTExNjIwNTI3
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTI1MTEwMjE1NCwtMTgwMDc1MzU5NSwxOD
+Y2MTk3MDE1LDEzMDkxMjE4OTYsNDQxMDUyOTM2LC0xMTYyMDUy
+NzU0XX0=
 -->
