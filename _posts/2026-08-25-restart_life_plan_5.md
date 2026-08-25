@@ -31,12 +31,12 @@ lang: zh
 2. 心理健康也必须重视。娃是个高需求的人，父母的陪伴很重要，但也要早点接触到外面的世界，培养成一个活泼开朗的性格，积极乐观的态度，并具有一定的抗压能力。
 3. 从小培养一项爱好和技能，不求能卓尔不群，只求能在未来漫漫的人生之路上，能给自己力量。
 
-作为丈夫，跟妻子也进行了几番友好讨论。爱情在当前阶段，优先级
+作为丈夫，跟妻子也进行了几番友好讨论。爱情在当前阶段，优先级比较低。或者说，早已转换成了亲情。两个人可以看成是一起抚养儿子的合伙人、partner。
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkwOTk3NTYsMTMwOTEyMTg5Niw0ND
-EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
+eyJoaXN0b3J5IjpbODg2OTcxMTU5LDEzMDkxMjE4OTYsNDQxMD
+UyOTM2LC0xMTYyMDUyNzU0XX0=
 -->
