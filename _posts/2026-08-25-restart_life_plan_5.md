@@ -38,13 +38,14 @@ P.S.
 
 其实还有一个隐藏的角色，那就是作为一个个体的自己。几点任务清单吧：
 - [ ] 体重降到70kg以下（目前体重维持在74kg左右，似乎进入平台期，今天突然翻了下23年的记录，最低69kg，似乎是黑暗里的一束光）  
-- [ ] 内脏脂肪等级降低6以下（虽然脂肪肝已是）
+- [ ] 内脏脂肪等级降低6以下（虽然脂肪肝已是老病友，但也不能破罐子破摔，人至中年，更要保护好自己的身体）
+- [ ] 改变
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NzY3ODY5LC0xODAwNzUzNTk1LDE4Nj
-YxOTcwMTUsMTMwOTEyMTg5Niw0NDEwNTI5MzYsLTExNjIwNTI3
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTc1NTQ3OTUyNywtMTgwMDc1MzU5NSwxOD
+Y2MTk3MDE1LDEzMDkxMjE4OTYsNDQxMDUyOTM2LC0xMTYyMDUy
+NzU0XX0=
 -->
