@@ -17,12 +17,12 @@ lang: zh
 
 周末去新网续约，发现最多只能一次买9年的域名服务。犹豫一番，最终还是买了9年。希望能在这不确定的未来中，先找到一丝确定性。
 
-深受EVA的影响，觉得自己就像一个MAGI系统。脑子里面有3个角色在支配着自己：作为
+深受EVA的影响，觉得自己就像一个MAGI系统。脑子里面有3个角色在支配着自己：作为儿子的角色、作为父亲的角色以及作为丈夫的角色。
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDg4NTQzMywxMzA5MTIxODk2LDQ0MT
-A1MjkzNiwtMTE2MjA1Mjc1NF19
+eyJoaXN0b3J5IjpbLTE1NDAwOTY0ODcsMTMwOTEyMTg5Niw0ND
+EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
 -->
