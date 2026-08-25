@@ -28,12 +28,13 @@ lang: zh
 
 作为父亲，看着儿子一天天长大，心里还是挺开心的，但身上的担子不知不觉也多了起来。围棋里面讲究只要留两口气，布的这个眼就是活眼。对我也一样，只要留着两口气，我就能活；而我知道，这一口气是自己给的，另一口气便是儿子给的。同样几个事需要规划：
 1. 身体健康是第一位，不希望跟我一样，每周都起诊所；也不希望跟他妈一样，忽略了身高体重的增长；
-2. 心理健康也必须重视。娃是个高需求的人，父母的陪伴很重要，但也要
+6. 心理健康也必须重视。娃是个高需求的人，父母的陪伴很重要，但也要早点接触到外面的世界，培养成一个活泼开朗的性格，积极乐观的态度，并具有一定的抗压能力。
+7. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczODAxMDIyLDEzMDkxMjE4OTYsNDQxMD
-UyOTM2LC0xMTYyMDUyNzU0XX0=
+eyJoaXN0b3J5IjpbLTExMzE4NjA3ODgsMTMwOTEyMTg5Niw0ND
+EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
 -->
