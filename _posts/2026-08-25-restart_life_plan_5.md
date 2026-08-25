@@ -19,10 +19,12 @@ lang: zh
 
 深受EVA的影响，觉得自己就像一个MAGI系统。脑子里面有3个角色在支配着自己：作为儿子的角色、作为父亲的角色以及作为丈夫的角色。
 
+作为儿子，不得不承认，父母已经在变老，
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAwOTY0ODcsMTMwOTEyMTg5Niw0ND
-EwNTI5MzYsLTExNjIwNTI3NTRdfQ==
+eyJoaXN0b3J5IjpbLTM3ODg5NTIzNywxMzA5MTIxODk2LDQ0MT
+A1MjkzNiwtMTE2MjA1Mjc1NF19
 -->
