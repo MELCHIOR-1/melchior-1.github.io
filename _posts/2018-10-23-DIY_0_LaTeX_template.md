@@ -6,6 +6,7 @@ categories: LaTeX
 tags: [latex]
 lang: zh
 music-id: 399354373
+
 ---
 
 有没有想用LaTeX写文档的冲动，却苦于没有模版？有没有从网上down了一份模版，发现有些地方不合适，却不知如何修改？有没有厌倦了每次写文档，需要把导言区的一段段内容复制粘贴？
@@ -71,5 +72,5 @@ music-id: 399354373
 微信扫一扫
 <img class="centered" src="https://raw.githubusercontent.com/MELCHIOR-1/melchior-1.github.io/master/images/dashang.jpg" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTIxNDQ0MF19
+eyJoaXN0b3J5IjpbLTIwMjQyODg2NjIsLTkzNTIxNDQ0MF19
 -->
