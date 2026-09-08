@@ -5,6 +5,7 @@ date: 2018-11-11
 categories: LaTeX
 tags: [latex]
 lang: zh
+
 ---
 
 “孤单是一个人的狂欢,狂欢是一群人的孤单。” ——阿桑《叶子》
@@ -118,7 +119,7 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 	
 	\textbf{英语：}I love you.
 	
-	\textbf{俄语：}Я люблю тебя. 	
+	\textbf{俄语：}Я люблю тебя. 	
 	
 	\textbf{日语：}あなたのことが好きです.
 	
@@ -176,7 +177,7 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 	
 	\textbf{英语：}I love you.
 	
-	\textbf{俄语：}Я люблю тебя. 	
+	\textbf{俄语：}Я люблю тебя. 	
 	
 	\textbf{日语：}あなたのことが好きです.
 	
@@ -228,6 +229,6 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 
 - [clsguide_chs.pdf](https://wenku.baidu.com/view/a7a25a8371fe910ef12df8c9.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjYxNDU0NiwtNTkyNzIzNDA2LC0xNj
+eyJoaXN0b3J5IjpbMjE0MTA4Njg4NCwtNTkyNzIzNDA2LC0xNj
 c4NjEyOTIyXX0=
 -->
