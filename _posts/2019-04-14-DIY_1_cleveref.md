@@ -5,6 +5,7 @@ date: 2019-04-14
 categories: LaTeX
 tags: [sty,latex]
 lang: zh
+
 ---
 
 种一棵树最好的时间是十年前，其次是现在。只要你心里有信念，没有时间的差距，什么时候开始都可以。——Dambisa Moyo
@@ -201,3 +202,6 @@ Cleveref figure reference (\textbackslash cref): \cref{fig:1}.
 [3] [Fancy Cross-referencing](<http://www.ctex.org/documents/packages/bibref/fancyref.pdf>)
 
 [4] [The cleveref package](<http://ftp.yzu.edu.tw/CTAN/macros/latex/contrib/cleveref/cleveref.pdf>)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI1MDU5MjM3Ml19
+-->
