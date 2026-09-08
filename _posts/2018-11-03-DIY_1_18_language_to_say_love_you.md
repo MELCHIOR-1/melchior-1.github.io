@@ -5,7 +5,9 @@ date: 2018-11-03
 categories: LaTeX
 tags: [babel,latex]
 lang: zh
+
 ---
+
 
 最近一直在想用什么例子来讲如何编写latex模板，老感觉使用“Hello World”或者“Hello LaTeX”就落入了市面上介绍编程语言的俗套。恰逢老婆生日，于是便有了用17种语言说“我爱你”作为例子的想法。
 
@@ -73,7 +75,7 @@ babel会把最后一个申明的语言当成主语言（如上例中的english�
 	
 	\textbf{英语：}I love you.
 	
-	\textbf{俄语：}Я люблю тебя. 	
+	\textbf{俄语：}Я люблю тебя. 	
 	
 	\textbf{日语：}あなたのことが好きです.
 	
@@ -114,5 +116,5 @@ babel会把最后一个申明的语言当成主语言（如上例中的english�
 - [babel.pdf](ftp://ftp.dante.de/tex-archive/language/babel/base/babel.pdf)
 - [克林贡人的爱意](https://www.douban.com/group/topic/52907756/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTkwOTQyM119
+eyJoaXN0b3J5IjpbLTM0OTM1NDE1OSwtNTY1OTA5NDIzXX0=
 -->
