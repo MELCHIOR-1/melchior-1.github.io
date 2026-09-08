@@ -5,6 +5,7 @@ date: 2019-04-15
 categories: LaTeX
 tags: [sty,latex]
 lang: zh
+
 ---
 
 使用模板时遇到了引用图像子图不带括号的问题。
@@ -53,3 +54,6 @@ lang: zh
 
 ![](<https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/FAQ_subfig_3.png>)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDIyMzAxMDU1XX0=
+-->
