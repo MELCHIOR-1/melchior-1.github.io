@@ -5,6 +5,7 @@ date: 2018-12-18
 categories: LaTeX
 tags: [sty,latex]
 lang: zh
+
 ---
 
 “岁月是朵两生花，涉江而过，花开千朵” 
@@ -112,3 +113,6 @@ bicaption，从名字中可以看出，它是在caption的基础上实现了双�
 源码地址：
 
 [https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/tree/master/chapter_1/section4](https://github.com/MELCHIOR-1/How_to_write_a_LaTeX_thesis_template/tree/master/chapter_1/section4)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg0Nzk3NjcxMl19
+-->
