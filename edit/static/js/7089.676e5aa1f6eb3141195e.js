@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstackedit=self.webpackChunkstackedit||[]).push([[7089],{7089:function(e,t,c){c.d(t,{createArchitectureServices:function(){return r.S}});var r=c(5796);c(4954)}}]);

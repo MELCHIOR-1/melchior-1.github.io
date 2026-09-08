@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstackedit=self.webpackChunkstackedit||[]).push([[9590],{9590:function(e,t,c){c.d(t,{createPieServices:function(){return s.f}});var s=c(6041);c(4954)}}]);
