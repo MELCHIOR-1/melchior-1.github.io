@@ -5,6 +5,7 @@ date: 2018-11-24
 categories: LaTeX
 tags: [sty,latex]
 lang: zh
+
 ---
 
 “你在北方的寒夜里 大雪纷飞
@@ -62,7 +63,7 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 	\heartpar{
 	\textbf{汉语：}我爱你！
 	\textbf{英语：}I love you.
-	\textbf{俄语：}Я люблю тебя. 	
+	\textbf{俄语：}Я люблю тебя. 	
 	\textbf{日语：}あなたのことが好きです.
 	\textbf{法语：}Je t'aime!
 	\textbf{德语：}Ich liebe dich.
@@ -84,5 +85,6 @@ LaTeX模版包括两个部分：类 (.cls) 和 包 (.sty)。类就好比是皮�
 使用XeLaTeX编译后，可以得到如下效果：
 ![](https://github.com/MELCHIOR-1/melchior-1.github.io/raw/master/images/shapepar_test.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MjU0MDc5LC01MDk0NjEzM119
+eyJoaXN0b3J5IjpbMTg4ODA4OTAzOSwyNDcyNTQwNzksLTUwOT
+Q2MTMzXX0=
 -->
