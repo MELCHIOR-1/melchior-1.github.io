@@ -123,6 +123,7 @@ menu:
   #about: /about/
   archives: /archives/
   tags: /tags/
+  edit: /edit/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -141,6 +142,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
+  edit: pencil
   sitemap: sitemap
   commonweal: heartbeat
 
