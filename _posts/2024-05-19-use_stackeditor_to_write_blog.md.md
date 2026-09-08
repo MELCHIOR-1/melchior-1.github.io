@@ -6,6 +6,7 @@ categories: JS
 tags: [resources, jekyll]
 lang: zh
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
+
 ---
 
 最近一直在找一个不依赖系统、不依赖电脑的博客编辑方案，找到了这个网站。还不错，只是不支持github图床。
@@ -41,7 +42,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOS9v+eUqHN0YWNrZWRpdG
 IHNoYXdwYW5cbnRhZ3M6ICdyZXNvdXJjZXMsamVreWxsJ1xuY2
 F0ZWdvcmllczogSlNcbmRhdGU6ICcyMDI0LTA1LTE5J1xuZXh0
 ZW5zaW9uczpcbiAgcHJlc2V0OiBnZm1cbiIsImhpc3RvcnkiOl
-syMDk5OTY4NjExLDE4MDQ2NjY0NzYsLTQ2NjgzMzk5LDEyOTU2
-MTg4NDEsLTY3NjQwNTQxNiw4NTAyMzU1MywyMTI3MzA0NjI1LD
-E4MDM4NTc4NzBdfQ==
+sxNjMwMjAyNzY5LDIwOTk5Njg2MTEsMTgwNDY2NjQ3NiwtNDY2
+ODMzOTksMTI5NTYxODg0MSwtNjc2NDA1NDE2LDg1MDIzNTUzLD
+IxMjczMDQ2MjUsMTgwMzg1Nzg3MF19
 -->
