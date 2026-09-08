@@ -6,6 +6,7 @@ categories: JS
 tags: [resources, jekyll]
 lang: zh
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
+
 ---
 
 6年没有写博客了，看看这套框架怎么用
@@ -16,3 +17,6 @@ image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ### 正常吗？
 
 能显示就是正常吧
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NTM3MDU5ODZdfQ==
+-->
