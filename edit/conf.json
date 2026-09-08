@@ -1,5 +1,11 @@
 {
   "githubClientId": "Ov23lijdnoMJ7W7qWiY0",
   "githubTokenUrl": "https://stackedit-oauth.melchior1.workers.dev/oauth2/githubToken",
+  "defaultWorkspace": {
+    "owner": "melchior-1",
+    "repo": "melchior-1.github.io",
+    "branch": "master",
+    "path": "_posts/"
+  },
   "allowSponsorship": false
 }
