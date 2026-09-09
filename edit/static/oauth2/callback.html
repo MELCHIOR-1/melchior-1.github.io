@@ -2,8 +2,48 @@
 <html>
   <body>
     <script>
-      var origin = location.protocol + '//' + location.host;
-      (window.opener || window.parent).postMessage(location.hash || location.search, origin);
+      // GitHub redirects here after the user authorizes the app.
+      //
+      // Desktop: window.opener is alive, so postMessage the result back and let
+      // the app finish in place.
+      //
+      // Mobile (Huawei and other mobile browsers): window.open() becomes a
+      // separate tab and window.opener is often null after the cross-site
+      // redirect to github.com. postMessage then goes nowhere, the app never
+      // receives the code, no token gets stored and the sign-in modal shows
+      // again -- an endless loop. Fallback: stash the result in localStorage
+      // and send this tab back to the app, which consumes it on the next
+      // startOauth2() call.
+      (function () {
+        var origin = location.protocol + '//' + location.host;
+        var payload = location.hash || location.search;
+        var basePath = location.pathname.replace(/oauth2\/callback\.html.*$/, '');
+
+        function stash() {
+          try {
+            localStorage.setItem('oauth2Result', JSON.stringify({
+              t: Date.now(),
+              data: payload,
+            }));
+          } catch (e) {
+            // Storage unavailable (private mode) -- nothing else we can do here.
+          }
+        }
+
+        var target = window.opener || (window.parent !== window ? window.parent : null);
+        if (target && !target.closed) {
+          try {
+            target.postMessage(payload, origin);
+            document.body.textContent = 'Authorized. You can close this tab.';
+            return;
+          } catch (e) {
+            // Fall through to the redirect fallback.
+          }
+        }
+
+        stash();
+        location.replace(origin + basePath);
+      })();
     </script>
   </body>
 </html>
