@@ -12,7 +12,8 @@ tags: [life]
 
 最近开车的时侯，听了邵艾伦采访孙晨宇的视频博客，还是很受震撼的。虽然孙割的人品不怎么喜欢，但他说的一些观点，还是比较认可的。特别是给年轻人的一些建议。
 
-
+1.**零成本把自己AI化**的
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYxMjUxNjldfQ==
+eyJoaXN0b3J5IjpbNjM4MTk2MzM5XX0=
 -->
