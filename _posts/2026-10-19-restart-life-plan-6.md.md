@@ -3,7 +3,7 @@ layout: post
 title: "重启人生计划——6"
 date: 2026-10-19 22:30:34 +0800
 categories: [life]
-tags: [life]
+tags: [life,plan]
 
 ---
 向内求：薄肌、黄毛、开图
@@ -77,6 +77,6 @@ tags: [life]
 过去的成功经验，往往是你未来最大的障碍。
 别太把自己当回事，随时准备给自己的认知“打补丁”。像软件更新一样，保持低自尊、高机动性，才能跟上时代的大版本更新。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjk4NzY3NSwyNTExMjY5NjAsMTUzNj
-EyNTAzMl19
+eyJoaXN0b3J5IjpbLTEyODYxNTY2NzQsMjUxMTI2OTYwLDE1Mz
+YxMjUwMzJdfQ==
 -->
