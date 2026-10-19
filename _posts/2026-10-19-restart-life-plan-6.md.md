@@ -35,6 +35,12 @@ tags: [life]
 
 根据每天收集的数据持续调整方向、行动和习惯。
 不追求一次决策正确，而是不断获取反馈、更新策略。
+
+### 5. 全球寻找商机，不要只盯着本地
+
+寻找全球市场的信息差、价格差和未被满足的需求。
+
+为全球约80
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTgxNDQ3OV19
+eyJoaXN0b3J5IjpbMjAyMjcwMDQ0Nl19
 -->
