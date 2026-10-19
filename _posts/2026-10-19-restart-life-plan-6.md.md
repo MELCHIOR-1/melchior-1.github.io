@@ -29,6 +29,8 @@ tags: [life]
  
 ### 一无所有时，先积累2~4个月的个人数据
 
+“听懂一万个道理，不如改变一次行动”。
+
 收集健康、学习、能力、生活习惯和当前处境等信息，全部数字化。
 
 ### 像训练AI一样训练自己
@@ -73,7 +75,7 @@ tags: [life]
 
 “保持Small Ego”
 过去的成功经验，往往是你未来最大的障碍。
-别太把自己当回事，随时准备给自己的认知“打补丁”。像
+别太把自己当回事，随时准备给自己的认知“打补丁”。像软件更新一样，保持低自尊、高机动性，才能跟上时代的大版本更新。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkxMzcyNTEsMTUzNjEyNTAzMl19
+eyJoaXN0b3J5IjpbMjUxMTI2OTYwLDE1MzYxMjUwMzJdfQ==
 -->
