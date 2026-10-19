@@ -13,7 +13,7 @@ tags: [life]
 最近开车的时侯，听了邵艾伦采访孙晨宇的视频博客，还是很受震撼的。虽然孙割的人品不怎么喜欢，但他说的一些观点，还是比较认可的。特别是给年轻人的一些建议。
 
 ### 1. 零成本把自己AI化
-	
+	之前看到一句话：“凡事在做之前，先问一下自己，这事用AI能不能做，”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTA3ODIwNF19
+eyJoaXN0b3J5IjpbNjExNDA5NTkzXX0=
 -->
