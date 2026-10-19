@@ -44,7 +44,9 @@ tags: [life]
 
 ### 6. 买房、买车、选专业前，先看100个选项
 
-想买房，先看100套房
+想买房，先看100套房；想买车，先研究100辆车。
+不知道大学选什么专业，就让AI分析100个专业未来10年的就业前景。
+年轻人最容易犯的错，是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwOTUwODgzXX0=
+eyJoaXN0b3J5IjpbMTc4MTM0NDgwN119
 -->
