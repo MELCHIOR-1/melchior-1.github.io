@@ -48,7 +48,7 @@ tags: [life]
 
 不知道大学选什么专业，就让AI分析100个专业未来10年的就业前景。
 
-年轻人最容易犯的错误，是信息不足就仓促决策。
+年轻人最容易犯的错误，是信息不足就仓促决策。"地图都没打开，就决定了自己要走"
 
 ### AI就是《红警》里的开全图
 
@@ -69,5 +69,5 @@ tags: [life]
 
 财富自由的顺序不是先有钱再自由，而是先获得某种自由状态，财富才可能随之出现。 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjEyNTAzMl19
+eyJoaXN0b3J5IjpbNTYzODQ4NDg3LDE1MzYxMjUwMzJdfQ==
 -->
