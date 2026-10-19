@@ -24,8 +24,11 @@ tags: [life]
  - 薄肌理论：通过力量训练改善身体管理。
  - 黄毛理论：不被外界评价左右，坚持自己经过判断认可的方向。
  
+ 这个可以从低成本实践开始
+ 
  ### 3. 一无所有时，先积累2~4个月的个人数据
 
+收集健康、学习、能力、生活习惯和当前处境等信息，全部数字化。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjU1Mzg4NF19
+eyJoaXN0b3J5IjpbMTYzMzM0NDgzMF19
 -->
