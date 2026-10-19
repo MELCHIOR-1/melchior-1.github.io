@@ -20,7 +20,9 @@ tags: [life]
 
 ### 2.先建立三套底层认知
 
-这就提到孙学：升级对
+ - 孙学：升级对金钱、财富自由和世界的理解。
+ - 薄肌理论：通过力量训练改善身体管理。
+ - 黄毛理论：不被外界评价左右，坚持自己经过判断认可的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDIwMTEwNV19
+eyJoaXN0b3J5IjpbLTYxNzM2MTc3N119
 -->
