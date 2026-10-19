@@ -40,7 +40,11 @@ tags: [life]
 
 寻找全球市场的信息差、价格差和未被满足的需求。
 
-为全球约80
+为全球约80亿人提供产品和服务，而不是只在国内争夺存量市场。
+
+### 6. 买房、买车、选专业前，先看100个选项
+
+想买房，先看100套房
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjcwMDQ0Nl19
+eyJoaXN0b3J5IjpbMjYwOTUwODgzXX0=
 -->
