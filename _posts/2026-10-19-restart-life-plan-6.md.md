@@ -6,9 +6,11 @@ categories: [life]
 tags: [life]
 
 ---
-向内求：薄肌、开图
+向内求：薄肌、黄毛、开图
+
 <!--more-->
 
+最近开车的时侯，听了邵艾伦采访孙晨宇的视频博客，还是很受震撼的。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzMxNjA0M119
+eyJoaXN0b3J5IjpbLTIwMjY2NTYzNDBdfQ==
 -->
