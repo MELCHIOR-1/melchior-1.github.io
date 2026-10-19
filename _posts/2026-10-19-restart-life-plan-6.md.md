@@ -59,7 +59,11 @@ tags: [life]
 
 把肌肉看作身体的长期储备，越早开始身体管理越有价值。
 
- 
+### 9. 人生要“逐水草而居”
+
+哪里能发挥最大价值，就去哪里。
+不必永远留在同一个城市、国家或行业。
+收入和市场需求作为评估自身价值的重要参考指标。 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODU2NjUyOV19
+eyJoaXN0b3J5IjpbLTE5ODkwNTAzMTZdfQ==
 -->
