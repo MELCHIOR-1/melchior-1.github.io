@@ -52,7 +52,8 @@ tags: [life]
 
 ### 7. AI就是《红警》里的开全图
 
-打游戏时，先侦察地图、 
+打游戏时，先侦察地图、确定资源和对手位置，再决定造什么兵。
+人生同理。先用AI获取足够的信息，再决策职业、投资和商业方向。 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzQxODUzXX0=
+eyJoaXN0b3J5IjpbMTQ2OTcyMTg5OV19
 -->
