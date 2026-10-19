@@ -71,7 +71,9 @@ tags: [life]
 
 财富自由的顺序不是先有钱再自由，而是先获得某种自由状态，财富才可能随之出现。 
 
-“保持”
+“保持Small Ego”
+过去的成功经验，往往是你未来最大的障碍。
+别太把自己当回事，随时准备给自己的认知“打补丁”。像
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTE4MTI2NSwxNTM2MTI1MDMyXX0=
+eyJoaXN0b3J5IjpbLTE0NjkxMzcyNTEsMTUzNjEyNTAzMl19
 -->
