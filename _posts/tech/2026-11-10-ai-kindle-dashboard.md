@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI 让 Kindle 重获新生"
-date: 2026-11-10 09:20:00 +0800
+date: 2026-11-10 09:00:00 +0800
 categories: [tech]
 tags: [tech, ai, kindle]
 
