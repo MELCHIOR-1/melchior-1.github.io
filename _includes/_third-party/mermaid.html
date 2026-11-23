@@ -1,0 +1,28 @@
+{% if page.content contains 'mermaid' %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.3/mermaid.min.js"></script>
+<script>
+(function () {
+  if (typeof mermaid === 'undefined') return;
+  mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'loose' });
+  var nodes = [];
+  var seen = [];
+  function add(el) {
+    var wrap = el.closest('figure.highlight') || el.closest('div.highlight') || el;
+    if (seen.indexOf(wrap) !== -1) return;
+    seen.push(wrap);
+    var code = wrap.querySelector('td.code pre, td.code, pre code, pre, code');
+    var src = (code || wrap).textContent;
+    var div = document.createElement('div');
+    div.className = 'mermaid';
+    div.textContent = src;
+    wrap.parentNode.replaceChild(div, wrap);
+    nodes.push(div);
+  }
+  var list = document.querySelectorAll('pre code.language-mermaid, code.language-mermaid, figure.highlight.mermaid');
+  for (var i = 0; i < list.length; i++) add(list[i]);
+  if (!nodes.length) return;
+  if (mermaid.run) mermaid.run({ nodes: nodes });
+  else mermaid.init(undefined, nodes);
+})();
+</script>
+{% endif %}
